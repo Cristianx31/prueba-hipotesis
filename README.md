@@ -1,4 +1,4 @@
-# Prueba de Hipótesis - Sistema PAPAIA
+# Prueba de Hipótesis 
 
 Este repositorio contiene el análisis estadístico de:
 - Precisión
